@@ -1,5 +1,5 @@
 {
-  "name": "${localWorkspaceFolderBasename}",
+  "name": "${containerWorkspaceFolderBasename}",
   "image": "thebearingedge/code-container",
   "mounts": [
     // mount ssh config
